@@ -17,7 +17,10 @@
 #### 界面展示
 
 ![extending-a-theme](/01.png)
+![extending-a-theme](/02.png)
 ![extending-a-theme](/02.jpg)
+![extending-a-theme](/05.jpg)
 ![extending-a-theme](/03.jpg)
 ![extending-a-theme](/04.jpg)
-![extending-a-theme](/05.jpg)
+
+
