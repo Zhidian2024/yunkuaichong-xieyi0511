@@ -18,7 +18,6 @@
 
 ![extending-a-theme](/001.png)
 ![extending-a-theme](/002.png)
-![extending-a-theme](/003.jpg)
 ![extending-a-theme](/004.png)
 ![extending-a-theme](/005.jpg)
 ![extending-a-theme](/微信图片_20240709101914.jpg)
